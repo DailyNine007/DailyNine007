@@ -1,0 +1,6 @@
+- 👋 Hola soy Brayan Zendejas, tengo 28 años y soy actual estudiante en ingenieria en sistemas computacionales.
+- 👀 Estoy interesado en la programacion y el armado de computadoras.
+- 🌱 Actualmente estoy interesado en varias ramas de la programacion, desarrollo web y aplicaciones.
+- 📫 Puedes contactarme en cualquiera de mis redes sociales comentadas en este perfil!
+- 😄 Se vienen proyectos!!!
+- ⚡ Actualmente entreno calistenia y llevo una vida saludable.
