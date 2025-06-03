@@ -1,6 +1,6 @@
-- 👋 Hola soy Brayan Zendejas, tengo 28 años y soy actual estudiante en ingenieria en sistemas computacionales.
-- 👀 Estoy interesado en el desarrollo en general y el soporte TI.
-- 🌱 SQL, ciberseguridad, CCNA y Java. (Prox Python)
+- 👋 Hola soy Brayan Zendejas, tengo 29 años y soy actual estudiante en ingenieria en sistemas computacionales.
+- 👀 Estoy interesado en el desarrollo con Python.
+- 🌱 CCNA, SQL, Excel, python.
 - 📫 Puedes contactarme en cualquiera de mis redes sociales comentadas en este perfil!
 - DailyNine007@hotmail.com
 - 😄 Se vienen proyectos!!!
