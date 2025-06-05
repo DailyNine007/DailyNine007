@@ -1,6 +1,5 @@
 - 👋 Hola soy Brayan Zendejas, tengo 29 años y soy actual estudiante en ingenieria en sistemas computacionales.
-- 👀 Estoy interesado en el desarrollo con Python y Java.
-- 🌱 Desarrollo De Sofware.
+- 🌱 Desarrollo De Sofware y Analisis De Datos.
 - 📫 Puedes contactarme en cualquiera de mis redes sociales comentadas en este perfil!
 - DailyNine007@hotmail.com
 - 😄 Se vienen proyectos!!!
